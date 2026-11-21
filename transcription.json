@@ -18,7 +18,7 @@
     "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/c4c639f6-0a71-4090-bcb0-cb1232a3e210.json",
     "manifest_sha256": "8a1db2ea32f5ef0e92c2a62f0264d465f63b1799c1b678c18ac5d221bdeb5d13",
     "record_id": "SINICA2036",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       2,
       3,
@@ -32,9 +32,9 @@
       11,
       12
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "欠債喻言（1876 年北京刊，牛津大學 Sinica 2036） / Qian zhai yu yan [Parable of the Debt]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -54,7 +54,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1500,
       "content_role": "title-and-imprint",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "single",
@@ -116,7 +116,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1658,
       "content_role": "opening-scripture-and-body",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -233,7 +233,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1658,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -257,7 +257,7 @@
               "text": "算賬的日子不想了、有一日、城裏"
             },
             {
-              "text": "大亂、就如螞蟻窠被人跂了一般、"
+              "text": "大亂、就如螞蟻窠被人□了一般、"
             },
             {
               "text": "有許多人跑出來、彼此問說、怎麼了、當下十字路口、一"
@@ -292,6 +292,19 @@
               "text": "欠債喻言　二",
               "column_anchor": 9,
               "color": "unknown"
+            },
+            {
+              "type": "glyph-description",
+              "text": "⿰足力",
+              "location": "第七欄疑字結構",
+              "column_anchor": 7,
+              "color": "black",
+              "source_bbox": [
+                1212,
+                1060,
+                1267,
+                1128
+              ]
             }
           ]
         },
@@ -341,9 +354,11 @@
         {
           "side": "right",
           "column": 7,
-          "context": "跂",
-          "candidates": [],
-          "note": "第七欄「跂」右件及足部細筆待核。"
+          "context": "□",
+          "candidates": [
+            "⿰足力"
+          ],
+          "note": "底本字形近足＋力，待查 Unicode 及俗字字書。"
         }
       ],
       "facsimile_regions": [
@@ -373,7 +388,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1658,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -456,7 +471,7 @@
               "text": "們、王豈不怕別處的民、也要照我們這樣行呢、這個人"
             },
             {
-              "text": "說、這可沒有甚麼指望了、我們是必定受罰的了、咭、巴"
+              "text": "說、這可沒有甚麼指望了、我們是必定受罰的了、嗐、巴"
             },
             {
               "text": "不得有一條逃走的路纔好呢、是沒有了、王是一定不"
@@ -476,15 +491,7 @@
           ]
         }
       ],
-      "issues": [
-        {
-          "side": "left",
-          "column": 7,
-          "context": "咭",
-          "candidates": [],
-          "note": "第七欄嘆字「咭」待核。"
-        }
-      ],
+      "issues": [],
       "observations": "左面：第七欄嘆字「咭」待核。"
     },
     {
@@ -500,7 +507,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1658,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -629,7 +636,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1658,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -793,7 +800,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1658,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -948,7 +955,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1658,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -1068,7 +1075,7 @@
               "text": "赦詔的人、他們的賬、益發日日增添、後來一日早晨、他"
             },
             {
-              "text": "們忽然聽見有極大的聲音、彷彿是大鑼築的聲音、那"
+              "text": "們忽然聽見有極大的聲音、彷彿是大觱篥的聲音、那"
             },
             {
               "text": "聲音越近越大、過了少時、就看見王差來的人、在街上"
@@ -1102,15 +1109,7 @@
           ]
         }
       ],
-      "issues": [
-        {
-          "side": "left",
-          "column": 7,
-          "context": "鑼築",
-          "candidates": [],
-          "note": "第七欄「鑼築」後字印痕細碎，待核。"
-        }
-      ],
+      "issues": [],
       "observations": "左面：第七欄「鑼築」後字印痕細碎，待核。"
     },
     {
@@ -1126,7 +1125,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1658,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -1144,7 +1143,7 @@
               "text": "那太子、他們就去了、那差來的人、又回到各房子裏、要"
             },
             {
-              "text": "挈那其餘的人、也沒有對他們說別的話、就說、你們受"
+              "text": "拏那其餘的人、也沒有對他們說別的話、就說、你們受"
             },
             {
               "text": "審判去、他們跟著去、幾乎怕死、他們臉上的顏色、都嚇"
@@ -1156,7 +1155,7 @@
               "text": "在城外、在那裏設著一個寶座、人人都看得見、他們就"
             },
             {
-              "text": "將這些被挈的人、安置在一處、在王的左邊、看見王頭"
+              "text": "將這些被拏的人、安置在一處、在王的左邊、看見王頭"
             }
           ],
           "extras": [
@@ -1214,7 +1213,7 @@
               "text": "威嚴、令他們十分驚懼、他們看見王眼前有幾本大書、"
             },
             {
-              "text": "都展開擱著、王挈起一本來念、念的都是那有赦詔的"
+              "text": "都展開擱著、王拏起一本來念、念的都是那有赦詔的"
             },
             {
               "text": "人的名字、有許多極有威嚴的人、都是管理各城的大"
@@ -1232,7 +1231,7 @@
               "text": "說、你們不必回城去了、跟隨我住在我父家裏、永遠作"
             },
             {
-              "text": "一家人、可以常見我父的面、王又另挈一本書念、念的"
+              "text": "一家人、可以常見我父的面、王又另拏一本書念、念的"
             }
           ],
           "extras": [
@@ -1306,7 +1305,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1658,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -1438,7 +1437,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1658,
       "content_role": "author-text",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -1501,7 +1500,7 @@
               "text": "一褡褳錢、指得是主賜人的能力、助人專心服事上"
             },
             {
-              "text": "主、那大鑼築的聲音、指得是末日的審判、那本債簿"
+              "text": "主、那大觱篥的聲音、指得是末日的審判、那本債簿"
             },
             {
               "text": "用紅筆塗抹、那紅、指得是耶穌的寶血、信主的人不"
@@ -1530,15 +1529,7 @@
           ]
         }
       ],
-      "issues": [
-        {
-          "side": "left",
-          "column": 4,
-          "context": "鑼築",
-          "candidates": [],
-          "note": "第四欄「鑼築」同第8幅，後字待核。"
-        }
-      ],
+      "issues": [],
       "observations": "左面：第四欄「鑼築」同第8幅，後字待核。"
     },
     {
@@ -1554,7 +1545,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1658,
       "content_role": "body-end-and-hymn",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "right",
@@ -1649,7 +1640,7 @@
       "downloaded_width": 2000,
       "downloaded_height": 1658,
       "content_role": "back-cover-ornament",
-      "state": "initial-read",
+      "state": "independent-read-and-source-adjudication",
       "sides": [
         {
           "side": "single",

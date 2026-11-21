@@ -4,11 +4,11 @@
 
 Qian zhai yu yan is an illustrated Mandarin Christian tract printed in 1876 at the American Presbyterian Mission Press on Dengshikou in Beijing and attributed to M. B. North in the Serica catalogue. It tells of a king, a city of debtors and a prince who pays their debts, with marginal scripture quotations and a four-stanza hymn. The transcription follows Bodleian Libraries Sinica 2036.
 
-## V0.1.0
+## V0.2.0
 
-13 幅共 24 面，含封面、卷前經文、正文原頁碼一至二十、無題聖歌與後封。正文插圖及後封花籃圖有位置。AI 輔助逐欄初錄，疑讀另記。
+13 幅共 24 面，含封面、卷前經文、正文原頁碼一至二十、無題聖歌與後封。正文插圖及後封花籃圖有位置。比對獨立原圖讀法後回圖裁定，採用 9 筆訂正，留存疑讀定位。
 
-The 13 scans represent 24 faces: title page, opening scripture quotations, pages 1–20, an untitled four-stanza hymn and the back cover. An illustration in the text and the back-cover ornament are located. AI-assisted initial transcription with uncertain readings marked.
+The 13 scans represent 24 faces: title page, opening scripture quotations, pages 1–20, an untitled four-stanza hymn and the back cover. An illustration in the text and the back-cover ornament are located. An independent image reading was compared with the first transcription. Source-image adjudication adopted 9 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

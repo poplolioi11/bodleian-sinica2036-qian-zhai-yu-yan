@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '欠債喻言（1876 年北京刊，牛津大學 Sinica 2036） / Qian zhai yu yan [Parable of the Debt]:
   Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

@@ -1,0 +1,258 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 9,
+  "changes": [
+    {
+      "image": 3,
+      "side": "right",
+      "column": 7,
+      "kind": "main",
+      "op": "replace",
+      "before": "跂",
+      "after": "□",
+      "reason": "疑為足旁加力，字形可辨但尚無確認的對應碼位。",
+      "source_bbox": [
+        1212,
+        1060,
+        1267,
+        1128
+      ],
+      "offset": [
+        10,
+        11
+      ],
+      "source_image_sha256": "961cec4f91a312af3871f2d549de7595cdfb9fda551b008b661b441a8450f1b2",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9e4988cf-630e-438e-8299-7901db596a88.json"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": 7,
+      "kind": "paratext",
+      "op": "locate",
+      "before": "",
+      "after": "⿰足力",
+      "reason": "保留印字形體與所處欄位。",
+      "source_bbox": [
+        1212,
+        1060,
+        1267,
+        1128
+      ],
+      "source_image_sha256": "961cec4f91a312af3871f2d549de7595cdfb9fda551b008b661b441a8450f1b2",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9e4988cf-630e-438e-8299-7901db596a88.json"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 7,
+      "kind": "main",
+      "op": "replace",
+      "before": "咭",
+      "after": "嗐",
+      "reason": "口旁右上宀，右下有口，判為嗐。",
+      "source_bbox": [
+        432,
+        1147,
+        508,
+        1230
+      ],
+      "offset": [
+        22,
+        23
+      ],
+      "source_image_sha256": "f7a966d206d00b16e9856dfa178f74b549c28b5c6e3a98b4586264245c204512",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6fd95213-7901-4249-85b4-031b147e3940.json"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 7,
+      "kind": "main",
+      "op": "replace",
+      "before": "鑼築",
+      "after": "觱篥",
+      "reason": "觱可辨咸、角部件，篥下部是栗。同冊 f11 同詞。",
+      "source_bbox": [
+        430,
+        931,
+        513,
+        1116
+      ],
+      "offset": [
+        16,
+        18
+      ],
+      "source_image_sha256": "52949bbdef7c1719ad226a33f636cfd0bb25028bb5038ed3fbf670bae1364466",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b76595f2-6493-4f3f-b723-06c8547c5df2.json"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "挈",
+      "after": "拏",
+      "reason": "上部為奴，下部為手。",
+      "source_bbox": [
+        1362,
+        284,
+        1424,
+        334
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "source_image_sha256": "c3ebe0ed1f76ce9ff9fa91d848cd5c755eda7368ebcfe2f6197526e7e10a220c",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/51a10031-9d57-4fd0-b0c4-70fc50bcf9d0.json"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": 9,
+      "kind": "main",
+      "op": "replace",
+      "before": "挈",
+      "after": "拏",
+      "reason": "上部為奴，下部為手。",
+      "source_bbox": [
+        1053,
+        497,
+        1116,
+        553
+      ],
+      "offset": [
+        4,
+        5
+      ],
+      "source_image_sha256": "c3ebe0ed1f76ce9ff9fa91d848cd5c755eda7368ebcfe2f6197526e7e10a220c",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/51a10031-9d57-4fd0-b0c4-70fc50bcf9d0.json"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "挈",
+      "after": "拏",
+      "reason": "上部為奴，下部為手。",
+      "source_bbox": [
+        738,
+        553,
+        805,
+        623
+      ],
+      "offset": [
+        7,
+        8
+      ],
+      "source_image_sha256": "c3ebe0ed1f76ce9ff9fa91d848cd5c755eda7368ebcfe2f6197526e7e10a220c",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/51a10031-9d57-4fd0-b0c4-70fc50bcf9d0.json"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": 9,
+      "kind": "main",
+      "op": "replace",
+      "before": "挈",
+      "after": "拏",
+      "reason": "上部為奴，下部為手。",
+      "source_bbox": [
+        287,
+        920,
+        358,
+        1010
+      ],
+      "offset": [
+        16,
+        17
+      ],
+      "source_image_sha256": "c3ebe0ed1f76ce9ff9fa91d848cd5c755eda7368ebcfe2f6197526e7e10a220c",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/51a10031-9d57-4fd0-b0c4-70fc50bcf9d0.json"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": 4,
+      "kind": "main",
+      "op": "replace",
+      "before": "鑼築",
+      "after": "觱篥",
+      "reason": "對讀同冊 f08，兩字構件一致。",
+      "source_bbox": [
+        670,
+        406,
+        749,
+        606
+      ],
+      "offset": [
+        4,
+        6
+      ],
+      "source_image_sha256": "d0fc0b55f54ee85db9807d77713e9e2fa015cee90b62031696acd409a558100c",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1f52bf2e-2a4b-4eae-aaa6-067256e49941.json"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/87e370c7-25a5-496d-9e1e-a66d7014ccd1.json",
+      "status": "字形或版面待核"
+    },
+    {
+      "image": 3,
+      "side": "right",
+      "column": 7,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9e4988cf-630e-438e-8299-7901db596a88.json",
+      "status": "字形或版面待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "source_image_sha256": "33abf2ef8bb5161e40ced223cb4645872d036b3ad4dca0225a20ed053dd2d4c7",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/87e370c7-25a5-496d-9e1e-a66d7014ccd1.json",
+      "reading": "喻",
+      "status": "依原圖留讀",
+      "reason": "封面大字下右兩直筆帶鉤，支持喻。"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 1,
+      "source_image_sha256": "9daa927e21ee60ee2504cf2271c632fe5d62e0e2a6613f1b0c2a2078a6a8de83",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cdee8fef-9850-4b70-a1ed-07913f77b080.json",
+      "reading": "悲慈",
+      "status": "依原圖留讀",
+      "reason": "前字見非、心，後字見茲、心。原版倒序保留。"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": 1,
+      "source_image_sha256": "560c2d4ced50eca340cb6f8232c302539510a1b9a8ecba457d33dd9823fd88ac",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/22cd7ba8-7981-4688-ac10-a885274e1618.json",
+      "reading": "拯救的日子、",
+      "status": "依原圖留讀",
+      "reason": "第20頁結尾原有斜實點。"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": 1,
+      "source_image_sha256": "560c2d4ced50eca340cb6f8232c302539510a1b9a8ecba457d33dd9823fd88ac",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/22cd7ba8-7981-4688-ac10-a885274e1618.json",
+      "reading": "今我稱頌耶穌聖名　超乎世人為我友",
+      "status": "依原圖留讀",
+      "reason": "上下段分隔依本面版式，四節依反白小字另記。"
+    }
+  ]
+}

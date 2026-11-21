@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -211,7 +211,7 @@
               <seg type="diplomatic-text">算賬的日子不想了、有一日、城裏</seg>
             </ab>
             <ab type="column" n="7" xml:id="f03-r-c07">
-              <seg type="diplomatic-text">大亂、就如螞蟻窠被人跂了一般、</seg>
+              <seg type="diplomatic-text">大亂、就如螞蟻窠被人□了一般、</seg>
             </ab>
             <ab type="column" n="8" xml:id="f03-r-c08">
               <seg type="diplomatic-text">有許多人跑出來、彼此問說、怎麼了、當下十字路口、一</seg>
@@ -226,6 +226,10 @@
             <ab type="page-feature" subtype="running-title" corresp="#f03-r-c09">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">欠債喻言　二</seg>
+            </ab>
+            <ab type="page-feature" subtype="glyph-description" corresp="#f03-r-c07">
+              <label>第七欄疑字結構</label>
+              <seg type="diplomatic-text" rend="black">⿰足力</seg>
             </ab>
           </div>
           <div type="page-face" n="left">
@@ -264,8 +268,9 @@
           <div type="editorial-observations">
             <ab type="layout">右面：第七欄「跂」右件及足部細筆待核。 右面：第三至七欄上方有一幅街市插圖，無題記。</ab>
             <ab type="transcription-issue" n="right:7">
-              <quote>跂</quote>
-              <note type="editorial">第七欄「跂」右件及足部細筆待核。</note>
+              <quote>□</quote>
+              <seg type="candidate">⿰足力</seg>
+              <note type="editorial">底本字形近足＋力，待查 Unicode 及俗字字書。</note>
             </ab>
           </div>
         </div>
@@ -328,7 +333,7 @@
               <seg type="diplomatic-text">們、王豈不怕別處的民、也要照我們這樣行呢、這個人</seg>
             </ab>
             <ab type="column" n="7" xml:id="f04-l-c07">
-              <seg type="diplomatic-text">說、這可沒有甚麼指望了、我們是必定受罰的了、咭、巴</seg>
+              <seg type="diplomatic-text">說、這可沒有甚麼指望了、我們是必定受罰的了、嗐、巴</seg>
             </ab>
             <ab type="column" n="8" xml:id="f04-l-c08">
               <seg type="diplomatic-text">不得有一條逃走的路纔好呢、是沒有了、王是一定不</seg>
@@ -343,10 +348,6 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">左面：第七欄嘆字「咭」待核。</ab>
-            <ab type="transcription-issue" n="left:7">
-              <quote>咭</quote>
-              <note type="editorial">第七欄嘆字「咭」待核。</note>
-            </ab>
           </div>
         </div>
         <pb n="5" facs="#f05" />
@@ -666,7 +667,7 @@
               <seg type="diplomatic-text">赦詔的人、他們的賬、益發日日增添、後來一日早晨、他</seg>
             </ab>
             <ab type="column" n="7" xml:id="f08-l-c07">
-              <seg type="diplomatic-text">們忽然聽見有極大的聲音、彷彿是大鑼築的聲音、那</seg>
+              <seg type="diplomatic-text">們忽然聽見有極大的聲音、彷彿是大觱篥的聲音、那</seg>
             </ab>
             <ab type="column" n="8" xml:id="f08-l-c08">
               <seg type="diplomatic-text">聲音越近越大、過了少時、就看見王差來的人、在街上</seg>
@@ -685,10 +686,6 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">左面：第七欄「鑼築」後字印痕細碎，待核。</ab>
-            <ab type="transcription-issue" n="left:7">
-              <quote>鑼築</quote>
-              <note type="editorial">第七欄「鑼築」後字印痕細碎，待核。</note>
-            </ab>
           </div>
         </div>
         <pb n="9" facs="#f09" />
@@ -707,7 +704,7 @@
               <seg type="diplomatic-text">那太子、他們就去了、那差來的人、又回到各房子裏、要</seg>
             </ab>
             <ab type="column" n="5" xml:id="f09-r-c05">
-              <seg type="diplomatic-text">挈那其餘的人、也沒有對他們說別的話、就說、你們受</seg>
+              <seg type="diplomatic-text">拏那其餘的人、也沒有對他們說別的話、就說、你們受</seg>
             </ab>
             <ab type="column" n="6" xml:id="f09-r-c06">
               <seg type="diplomatic-text">審判去、他們跟著去、幾乎怕死、他們臉上的顏色、都嚇</seg>
@@ -719,7 +716,7 @@
               <seg type="diplomatic-text">在城外、在那裏設著一個寶座、人人都看得見、他們就</seg>
             </ab>
             <ab type="column" n="9" xml:id="f09-r-c09">
-              <seg type="diplomatic-text">將這些被挈的人、安置在一處、在王的左邊、看見王頭</seg>
+              <seg type="diplomatic-text">將這些被拏的人、安置在一處、在王的左邊、看見王頭</seg>
             </ab>
             <ab type="page-feature" subtype="scripture-margin">
               <label>上欄小字右段</label>
@@ -742,7 +739,7 @@
               <seg type="diplomatic-text">威嚴、令他們十分驚懼、他們看見王眼前有幾本大書、</seg>
             </ab>
             <ab type="column" n="3" xml:id="f09-l-c03">
-              <seg type="diplomatic-text">都展開擱著、王挈起一本來念、念的都是那有赦詔的</seg>
+              <seg type="diplomatic-text">都展開擱著、王拏起一本來念、念的都是那有赦詔的</seg>
             </ab>
             <ab type="column" n="4" xml:id="f09-l-c04">
               <seg type="diplomatic-text">人的名字、有許多極有威嚴的人、都是管理各城的大</seg>
@@ -760,7 +757,7 @@
               <seg type="diplomatic-text">說、你們不必回城去了、跟隨我住在我父家裏、永遠作</seg>
             </ab>
             <ab type="column" n="9" xml:id="f09-l-c09">
-              <seg type="diplomatic-text">一家人、可以常見我父的面、王又另挈一本書念、念的</seg>
+              <seg type="diplomatic-text">一家人、可以常見我父的面、王又另拏一本書念、念的</seg>
             </ab>
             <ab type="page-feature" subtype="scripture-margin">
               <label>上欄小字一</label>
@@ -914,7 +911,7 @@
               <seg type="diplomatic-text">一褡褳錢、指得是主賜人的能力、助人專心服事上</seg>
             </ab>
             <ab type="column" n="4" xml:id="f11-l-c04">
-              <seg type="diplomatic-text">主、那大鑼築的聲音、指得是末日的審判、那本債簿</seg>
+              <seg type="diplomatic-text">主、那大觱篥的聲音、指得是末日的審判、那本債簿</seg>
             </ab>
             <ab type="column" n="5" xml:id="f11-l-c05">
               <seg type="diplomatic-text">用紅筆塗抹、那紅、指得是耶穌的寶血、信主的人不</seg>
@@ -938,10 +935,6 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">左面：第四欄「鑼築」同第8幅，後字待核。</ab>
-            <ab type="transcription-issue" n="left:4">
-              <quote>鑼築</quote>
-              <note type="editorial">第四欄「鑼築」同第8幅，後字待核。</note>
-            </ab>
           </div>
         </div>
         <pb n="12" facs="#f12" />
