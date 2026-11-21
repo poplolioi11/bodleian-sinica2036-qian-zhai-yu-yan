@@ -1,0 +1,1016 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="zh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>欠債喻言</title>
+        <title type="alternate">Qian zhai yu yan</title>
+        <author>M. B. North（Serica 館目）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>英國牛津（現藏）；原刊北京</settlement>
+            <repository>牛津大學博德利圖書館</repository>
+            <collection>Sinica</collection>
+            <idno>Sinica 2036</idno>
+            <altIdentifier>
+              <idno>SINICA2036</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>《欠債喻言》是 1876 年由北京燈市口美華書院刷印的官話小冊，Serica 館目署 M. B. North。故事用國王、城中欠債居民和代為償債的太子解說基督教的赦免與救贖，並附經文欄注及四節聖歌。牛津大學博德利圖書館 Sinica 2036 底本可供近代官話、宗教出版及圖文版式研究。</p>
+              <ref target="https://digital.bodleian.ox.ac.uk/objects/c4c639f6-0a71-4090-bcb0-cb1232a3e210/">館方書目</ref>
+              <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/c4c639f6-0a71-4090-bcb0-cb1232a3e210.json">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>1876 年（歲次丙子），京都燈市口美華書院刷印。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>書面與欄按影像實際順序。文字、細注及可定位原筆標記分層，疑字及未錄位置由材料指出。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/87e370c7-25a5-496d-9e1e-a66d7014ccd1.json" xml:id="f01">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/87e370c7-25a5-496d-9e1e-a66d7014ccd1/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="2" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/2ae91dd7-c45f-497b-9d23-535e24f73659.json" xml:id="f02">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/2ae91dd7-c45f-497b-9d23-535e24f73659/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="3" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/9e4988cf-630e-438e-8299-7901db596a88.json" xml:id="f03">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/9e4988cf-630e-438e-8299-7901db596a88/full/2000,/0/default.jpg" />
+      <zone type="drawing" ulx="1200" uly="288" lrx="1585" lry="637" xml:id="f03-street-illustration" />
+    </surface>
+    <surface n="4" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/6fd95213-7901-4249-85b4-031b147e3940.json" xml:id="f04">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/6fd95213-7901-4249-85b4-031b147e3940/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="5" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/cdee8fef-9850-4b70-a1ed-07913f77b080.json" xml:id="f05">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/cdee8fef-9850-4b70-a1ed-07913f77b080/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="6" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/09e6b432-b61c-4591-9378-aece225c6124.json" xml:id="f06">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/09e6b432-b61c-4591-9378-aece225c6124/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="7" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/924f0e96-633a-403f-8dea-525891aba81f.json" xml:id="f07">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/924f0e96-633a-403f-8dea-525891aba81f/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="8" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/b76595f2-6493-4f3f-b723-06c8547c5df2.json" xml:id="f08">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/b76595f2-6493-4f3f-b723-06c8547c5df2/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="9" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/51a10031-9d57-4fd0-b0c4-70fc50bcf9d0.json" xml:id="f09">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/51a10031-9d57-4fd0-b0c4-70fc50bcf9d0/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="10" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/2c64ca15-7683-4d41-ab86-098d46b0c4b8.json" xml:id="f10">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/2c64ca15-7683-4d41-ab86-098d46b0c4b8/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="11" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/1f52bf2e-2a4b-4eae-aaa6-067256e49941.json" xml:id="f11">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/1f52bf2e-2a4b-4eae-aaa6-067256e49941/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="12" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/22cd7ba8-7981-4688-ac10-a885274e1618.json" xml:id="f12">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/22cd7ba8-7981-4688-ac10-a885274e1618/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="13" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/8b372ef3-3c42-4c7a-8e33-f2a34ce8319f.json" xml:id="f13">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/8b372ef3-3c42-4c7a-8e33-f2a34ce8319f/full/2000,/0/default.jpg" />
+      <zone type="drawing" ulx="1250" uly="548" lrx="1492" lry="797" xml:id="f13-back-cover-ornament" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="title-and-imprint">
+          <div type="page-face" n="single">
+            <ab type="column" n="1" xml:id="f01-s-c01">
+              <seg type="diplomatic-text">耶穌降世一千八百七十六年</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f01-s-c02">
+              <seg type="diplomatic-text">欠債喻言</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f01-s-c03">
+              <seg type="diplomatic-text">歲次丙子　京都燈市口美華書院刷印</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-s-c03">
+              <label>封面上方館藏墨書</label>
+              <seg type="diplomatic-text" rend="unknown">677a〔餘未釋〕</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-s-c03">
+              <label>封面下方館藏鉛筆</label>
+              <seg type="diplomatic-text" rend="unknown">Dupl／Chin. 677a*／Sinica 2036</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：上方墨書末段筆勢不清，字形待核。</ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote />
+              <note type="editorial">上方墨書末段筆勢不清，字形待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="opening-scripture-and-body">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f02-r-c01">
+              <seg type="diplomatic-text">所以不能由著自己。因為你們是重價</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-r-c02">
+              <seg type="diplomatic-text">贖來的。○因為你們知道你們從列祖</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-r-c03">
+              <seg type="diplomatic-text">所傳流的虛妄行為裏得贖。不是靠著</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-r-c04">
+              <seg type="diplomatic-text">能壞的金銀等物。是靠著基督的寶血。</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-r-c05">
+              <seg type="diplomatic-text">如同無瑕疵的羔羊的血。</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>欄上經文出處</label>
+              <seg type="diplomatic-text" rend="unknown">哥林多前／書六章十／九節廿節／彼得前書／十八節十／九節</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal" corresp="#f02-r-c05">
+              <label>下方淡墨圓印</label>
+              <seg type="diplomatic-text" rend="unknown">〔印文未釋〕</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f02-l-c01">
+              <seg type="diplomatic-text">欠債喻言</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-l-c02">
+              <seg type="diplomatic-text">有某王最憐愛他的百姓、他的國極大、城邑甚多、各城</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-l-c03">
+              <seg type="diplomatic-text">的百姓、都敬愛他、都聽從他的命令、惟有一城的百姓、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-l-c04">
+              <seg type="diplomatic-text">不敬愛他所說的、不敬愛他的那城的人、王却最憐愛</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-l-c05">
+              <seg type="diplomatic-text">他們、他們缺乏的時候、王給他們日用之費、養贍他們、</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f02-l-c06">
+              <seg type="diplomatic-text">又給他們許多憑據、使他們知道他的愛心、這王恩待</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f02-l-c07">
+              <seg type="diplomatic-text">百姓的心、不但像作王的、直如為父的憐愛兒子的心</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f02-l-c08">
+              <seg type="diplomatic-text">一般、那一城的百姓、却甚辜負王的恩典、他們雖蒙王</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f02-l-c09">
+              <seg type="diplomatic-text">的憐愛、却沒有些須報答王的憐愛、王的糧食給他們</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字</label>
+              <seg type="diplomatic-text" rend="unknown">聖經上說主／喜悅仁義公／正主的恩典／徧滿世界</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f02-l-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　一</seg>
+            </ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f03-r-c01">
+              <seg type="diplomatic-text">吃、王的衣服給他們穿、他們却沒有存愛心、用錢財報</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-r-c02">
+              <seg type="diplomatic-text">答王、他們有時也想到將來是怎樣、恐怕王有與他們</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-r-c03">
+              <seg type="diplomatic-text">算賬的日子、他們雖是這樣怕、他</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-r-c04">
+              <seg type="diplomatic-text">們又轉念說、不必怕、我們的王是</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-r-c05">
+              <seg type="diplomatic-text">最慈悲的、是最憐憫人的、就將那</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-r-c06">
+              <seg type="diplomatic-text">算賬的日子不想了、有一日、城裏</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-r-c07">
+              <seg type="diplomatic-text">大亂、就如螞蟻窠被人跂了一般、</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-r-c08">
+              <seg type="diplomatic-text">有許多人跑出來、彼此問說、怎麼了、當下十字路口、一</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f03-r-c09">
+              <seg type="diplomatic-text">處一處的、有人三一羣五一夥的在那裏說話、看他們</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字</label>
+              <seg type="diplomatic-text" rend="unknown">聖經上說上／主在天上鑒／察世人看有／明道求主的／人沒有竟都／是背逆的都／陷在污穢裏／沒有行善的／人連一個也／沒有</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f03-r-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　二</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f03-l-c01">
+              <seg type="diplomatic-text">的意思、彷彿有懼怕的事、有一個人在街上和一個人</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-l-c02">
+              <seg type="diplomatic-text">說、你聽見那消息沒有、那個人說、甚麼消息、這個人說、</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-l-c03">
+              <seg type="diplomatic-text">王方纔傳出一道旨意、叫衆人聽、你沒有看見王差遣</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-l-c04">
+              <seg type="diplomatic-text">的人麼、那個人說、沒有、這個人說、我告訴你、王訂了一</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-l-c05">
+              <seg type="diplomatic-text">日期、所有我們欠他的錢、叫我們在那日都償還他、不</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-l-c06">
+              <seg type="diplomatic-text">然、就將我們下在監裏、那個人說、噯呀、這實在不是好</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-l-c07">
+              <seg type="diplomatic-text">消息、王向來怎樣說、便怎樣行、你是知道的、他不常驚</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-l-c08">
+              <seg type="diplomatic-text">嚇人、只要一說出來、就永遠不能更改了、這個人說、城</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f03-l-c09">
+              <seg type="diplomatic-text">那邊的人、離王宮不遠、王待他們極有恩典、後來他們</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f03-l-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　三</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第七欄「跂」右件及足部細筆待核。 右面：第三至七欄上方有一幅街市插圖，無題記。</ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>跂</quote>
+              <note type="editorial">第七欄「跂」右件及足部細筆待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="4" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f04-r-c01">
+              <seg type="diplomatic-text">反了、這事你記得麼、王治他們的罪、是何等重、那個人</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-r-c02">
+              <seg type="diplomatic-text">說、是、我曾聽說、也記得、如今聽說那些人都囚在監裏、</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-r-c03">
+              <seg type="diplomatic-text">用鐵鏈鎖著在黑暗的地方、王說、永遠不饒恕他們、這</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-r-c04">
+              <seg type="diplomatic-text">個人說、這可怎麼好、我們若也受那樣刑罰、那還了得、</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-r-c05">
+              <seg type="diplomatic-text">那個人說、這可有甚麼方法呢、若是到那裏求他饒恕、</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-r-c06">
+              <seg type="diplomatic-text">告訴他說、我們實在懊悔欠的這大賬了、這樣求他、他</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-r-c07">
+              <seg type="diplomatic-text">或者可以更改、這個人說、那是徒然、我準知道他、既說</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-r-c08">
+              <seg type="diplomatic-text">要我們償還他、必一定要那樣行、那個人說、若我們到</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f04-r-c09">
+              <seg type="diplomatic-text">他那裏請罪、應許他以後再不敢這樣行了、如此、他還</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字</label>
+              <seg type="diplomatic-text" rend="unknown">聖經上說那／不守本位離／開所住的地／方的天使主／用鏈鎖將他／們永遠囚禁／在黑暗裏等／候大日的審／判</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f04-r-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　四</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f04-l-c01">
+              <seg type="diplomatic-text">不饒恕我們麼、這個人說、恐怕還是徒然、他既傳出旨</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-l-c02">
+              <seg type="diplomatic-text">意、叫我們償還、我們雖然請罪、不能算還他錢、我們說</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-l-c03">
+              <seg type="diplomatic-text">再不敢這樣行、這句話、準能應驗麼、現在不能還他、恐</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-l-c04">
+              <seg type="diplomatic-text">怕往後還要欠他的賬呢、那個人說、是呀、我也覺著王</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-l-c05">
+              <seg type="diplomatic-text">的話既說出來、是不能更改的了、你想、王若那樣待我</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-l-c06">
+              <seg type="diplomatic-text">們、王豈不怕別處的民、也要照我們這樣行呢、這個人</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-l-c07">
+              <seg type="diplomatic-text">說、這可沒有甚麼指望了、我們是必定受罰的了、咭、巴</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-l-c08">
+              <seg type="diplomatic-text">不得有一條逃走的路纔好呢、是沒有了、王是一定不</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f04-l-c09">
+              <seg type="diplomatic-text">更改的、我們這時候、連一個錢也不能償還、實在沒有</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f04-l-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　五</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：第七欄嘆字「咭」待核。</ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>咭</quote>
+              <note type="editorial">第七欄嘆字「咭」待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="5" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f05-r-c01">
+              <seg type="diplomatic-text">指望了、將來決不免下在監裏、那監比別的監更凶猛、</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-r-c02">
+              <seg type="diplomatic-text">既進去、就萬不能出來了、二人分手、彼此心都煩悶、臉</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-r-c03">
+              <seg type="diplomatic-text">上都帶愁容、過了些日子、百姓總是恐怕被王收在監</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-r-c04">
+              <seg type="diplomatic-text">裏、當這時候、王打發人進城來、曉諭百姓一件事、城裏</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-r-c05">
+              <seg type="diplomatic-text">的人怕聽、便說、算計著必是來告訴那日子定了、監牢</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-r-c06">
+              <seg type="diplomatic-text">業已預備好了、怕王要差遣官長來算各人的賬、按賬</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-r-c07">
+              <seg type="diplomatic-text">的多少定罪、他們雖如此怕、却有幾個人出去、要聽那</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-r-c08">
+              <seg type="diplomatic-text">來的人說的到底是甚麼、他們一聽見、便都驚異、心裏</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f05-r-c09">
+              <seg type="diplomatic-text">都游移不信、因為王差來的人說、各人的賬都償還了、</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字</label>
+              <seg type="diplomatic-text" rend="unknown">聖經上說你／若有一分一／毫未曾還清／萬不能從那／裏出來</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f05-r-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　六</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f05-l-c01">
+              <seg type="diplomatic-text">又說、我們悲慈的王說、他甚知你們的苦楚、也甚憐憫</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-l-c02">
+              <seg type="diplomatic-text">你們此時的景况、知道你們沒有錢、連些須都不能償</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-l-c03">
+              <seg type="diplomatic-text">還、又知道你們沒有甚麼方法、因為你們都欠著這大</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-l-c04">
+              <seg type="diplomatic-text">賬、誰也不能替誰、有一個人問說、王是怎樣辦的、他從</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-l-c05">
+              <seg type="diplomatic-text">前的話更改了麼、差來的人說、沒有、他不能更改、他一</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-l-c06">
+              <seg type="diplomatic-text">說賬須償還、那就償還了、他找了一個人、將你們欠的</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-l-c07">
+              <seg type="diplomatic-text">賬、叫他替你們償還了、衆人聽完這話、就甚喜樂、有幾</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-l-c08">
+              <seg type="diplomatic-text">個人說、我們王待我們的恩典、實在是大、王的話也應</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f05-l-c09">
+              <seg type="diplomatic-text">驗了、賬也償還了、我們也不至下在監牢、請問這位朋</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字</label>
+              <seg type="diplomatic-text" rend="unknown">聖經上說人／都不能贖自／己的弟兄也／無贖價奉與／主</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f05-l-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　七</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：第一欄「悲慈」語序待依字形覆核。</ab>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="6" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f06-r-c01">
+              <seg type="diplomatic-text">友是誰、差來的人說、這人從前也在你們中間、你們不</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-r-c02">
+              <seg type="diplomatic-text">認識他、他是王的兒子、衆人說、我們從未見他在這裏、</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-r-c03">
+              <seg type="diplomatic-text">他若是在這裏、我們沒有不知道的、差來的人說、他是</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-r-c04">
+              <seg type="diplomatic-text">在你們中間、只是他來的時候、沒有甚麼勢派、他當初</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-r-c05">
+              <seg type="diplomatic-text">離他父家要來的時候、就將那尊貴衣服脫了、看他的</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-r-c06">
+              <seg type="diplomatic-text">妝飾、彷彿僕人似的、有一個人問說、他在這裏的時候、</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-r-c07">
+              <seg type="diplomatic-text">作的是甚麼事、差來的人說、他走遍了這城、親眼看見</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-r-c08">
+              <seg type="diplomatic-text">你們懼怕入監牢的光景、又憐憫你們、替你們償還了</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f06-r-c09">
+              <seg type="diplomatic-text">賬、現在你們可以找他去、向他討一張赦詔、衆人說、我</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字</label>
+              <seg type="diplomatic-text" rend="unknown">聖經上說他／本有天主的／式樣將自己／算與天主同／等也不以為／僭妄然而他／還虛己有奴／僕樣式形狀／成為世人既／有人的形狀／就自己卑微／至死順服就／是死在十字／架上也是順／服的</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f06-r-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　八</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f06-l-c01">
+              <seg type="diplomatic-text">們往那裏找他去、差來的人說、他離這裏不遠、他在城</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-l-c02">
+              <seg type="diplomatic-text">外等著討赦詔的人呢、有人要、他就給、衆人說、我們討</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-l-c03">
+              <seg type="diplomatic-text">這赦詔、還有甚麼用處、我們的賬、不是已經還清了麼、</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-l-c04">
+              <seg type="diplomatic-text">差來的人說、還沒有清呢、王說、誰沒有赦詔、誰就還算</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-l-c05">
+              <seg type="diplomatic-text">是欠錢、而且還有一層、你們從前的賬、雖然有人替還、</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-l-c06">
+              <seg type="diplomatic-text">往後你們還是沒有錢阿、一定還要欠這樣的大賬、你</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-l-c07">
+              <seg type="diplomatic-text">們去罷、又可以得赦詔、又可以聽見那太子向你們說</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-l-c08">
+              <seg type="diplomatic-text">的話、於是這信息傳遍城內城外、許多人都甚歡喜、最</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f06-l-c09">
+              <seg type="diplomatic-text">歡喜的、就是從前極憂愁、極懊悔、欠這樣大賬、恐怕激</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字右段</label>
+              <seg type="diplomatic-text" rend="unknown">聖經上說天／主又叫他升／在自己的右／邊立他作君／王作救主賜／恩與以色列／人使他們能／悔改得蒙赦／罪</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字左段</label>
+              <seg type="diplomatic-text" rend="unknown">聖經上說天／主是萬人的／救主更是信／他的人的救／主</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f06-l-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　九</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal" corresp="#f06-l-c09">
+              <label>下緣印記</label>
+              <seg type="diplomatic-text" rend="unknown">二</seg>
+            </ab>
+          </div>
+        </div>
+        <pb n="7" facs="#f07" />
+        <div n="7" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f07-r-c01">
+              <seg type="diplomatic-text">惹慈悲的王動怒的人、并不是那怕下在監裏的人、那</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-r-c02">
+              <seg type="diplomatic-text">些怕下監的人、看他們的形狀、却不切切的要得那赦</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-r-c03">
+              <seg type="diplomatic-text">詔、他們彼此說、你們聽見那差來的人說、那太子不是</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-r-c04">
+              <seg type="diplomatic-text">都替償還了麼、又去討赦詔作甚麼、我不費這事、於是</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-r-c05">
+              <seg type="diplomatic-text">他們不理論這事、其餘那些人都甚感激王和太子、說、</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-r-c06">
+              <seg type="diplomatic-text">我們的賬、既然還清、自然當見太子、謝謝他的恩、并且</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-r-c07">
+              <seg type="diplomatic-text">得那赦詔、那赦詔上有王的印、他們心裏又想、我們既</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-r-c08">
+              <seg type="diplomatic-text">然感他的恩、也當給他一個憑據、要聽從他的話、於是</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f07-r-c09">
+              <seg type="diplomatic-text">他們立刻就都去了、到了那裏、沒見著太子和王、有一</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字</label>
+              <seg type="diplomatic-text" rend="unknown">聖經上說人／若愛我就必／守我的道</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f07-r-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　十</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f07-l-c01">
+              <seg type="diplomatic-text">位從王和太子那裏來的、在那裏等著他們、告訴他們</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-l-c02">
+              <seg type="diplomatic-text">說、太子那裏有一本册子、將你們的名字都記在上面、</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-l-c03">
+              <seg type="diplomatic-text">你們的罪是一準饒恕了、給各人一條赦詔、那赦詔上</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-l-c04">
+              <seg type="diplomatic-text">寫著各人欠賬的數目、都用紅筆塗抹了、那位大人給</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-l-c05">
+              <seg type="diplomatic-text">他們每人一個褡褳兒、都裝著錢、說、先給你們這一點、</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-l-c06">
+              <seg type="diplomatic-text">免得你們這幾日又欠賬、你們須儉省著使用、若果然</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-l-c07">
+              <seg type="diplomatic-text">不妄費、還可以給一褡褳兒錢呢、各人得了這一褡褳</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-l-c08">
+              <seg type="diplomatic-text">兒錢、就回本城去了、心裏甚歡喜、也甚感激、他們回到</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f07-l-c09">
+              <seg type="diplomatic-text">家裏、打開褡褳、見有一張條例、上面就是指示他們怎</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字右段</label>
+              <seg type="diplomatic-text" rend="unknown">聖經上說這／些人的名都／寫在生命册／子上</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字左段</label>
+              <seg type="diplomatic-text" rend="unknown">聖經上說等／到眞理的聖／靈來了他必／要引導你們／明白各樣眞／理因為他不／是憑著自己／說乃是將他／所聽見的話／並且要把將／來的事指示／你們他必榮／耀我因為他／必將所受於／我的指示你／們凡父所有／的都是我的／所以說他必／將所受於我／的指示你們</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f07-l-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　十一</seg>
+            </ab>
+          </div>
+        </div>
+        <pb n="8" facs="#f08" />
+        <div n="8" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f08-r-c01">
+              <seg type="diplomatic-text">樣用法、應當買甚麼、那個應當給多少錢、都寫在上面、</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-r-c02">
+              <seg type="diplomatic-text">他們將錢用完了、又欠下一點賬、他們又去找那位大</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-r-c03">
+              <seg type="diplomatic-text">人、大人說、我看你們是竭力遵著我的話使用的、這所</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-r-c04">
+              <seg type="diplomatic-text">欠的一點、王也必要饒恕、這裏還有一褡褳兒錢、比先</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-r-c05">
+              <seg type="diplomatic-text">前的多、你們更須竭力打算著用、不要再欠一點賬了、</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-r-c06">
+              <seg type="diplomatic-text">王知道你們是用心的、太子也喜愛你們、因為你們信</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-r-c07">
+              <seg type="diplomatic-text">他差來的人說的話、你們也聽王從前的那吩咐、你們</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f08-r-c08">
+              <seg type="diplomatic-text">不必怕了、於是這些人更甚歡喜、各回各家去了、他們</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f08-r-c09">
+              <seg type="diplomatic-text">回去的時候、便說、我們更當竭力的不欠賬了、因為王</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字一</label>
+              <seg type="diplomatic-text" rend="unknown">聖經說小子／啊我寫信給／你們因為你／們靠著主名／罪得赦免</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字二</label>
+              <seg type="diplomatic-text" rend="unknown">聖經說凡有／的還要加給／他叫他有餘</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字三</label>
+              <seg type="diplomatic-text" rend="unknown">聖經說叫我／們從聖靈不／從情欲的人／可以成就律／法的意</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字四</label>
+              <seg type="diplomatic-text" rend="unknown">聖經說若有／人犯罪就在／父那裏有我／們的中保就／是義人耶穌／基督</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f08-r-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　十二</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f08-l-c01">
+              <seg type="diplomatic-text">待我們的恩典甚厚、太子為我們還了賬、又給我們錢、</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-l-c02">
+              <seg type="diplomatic-text">不叫我們再欠下賬、又不計較我們的錯處、他這樣待</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-l-c03">
+              <seg type="diplomatic-text">我們、我們更當極力討他喜歡、他們便照著他們的話</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-l-c04">
+              <seg type="diplomatic-text">行、他們的賬、業已還清、方纔覺得從前所欠的賬極大、</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-l-c05">
+              <seg type="diplomatic-text">他們既得了那錢、纔覺出從前的窮來了、那些不願得</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-l-c06">
+              <seg type="diplomatic-text">赦詔的人、他們的賬、益發日日增添、後來一日早晨、他</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-l-c07">
+              <seg type="diplomatic-text">們忽然聽見有極大的聲音、彷彿是大鑼築的聲音、那</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f08-l-c08">
+              <seg type="diplomatic-text">聲音越近越大、過了少時、就看見王差來的人、在街上</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f08-l-c09">
+              <seg type="diplomatic-text">跑來跑去、進入各房子裏、叫凡有赦詔的人先出來、帶</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字</label>
+              <seg type="diplomatic-text" rend="unknown">聖經說我們／的過惡多的／難當我們的／罪孽主必赦／免</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f08-l-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　十三</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：第七欄「鑼築」後字印痕細碎，待核。</ab>
+            <ab type="transcription-issue" n="left:7">
+              <quote>鑼築</quote>
+              <note type="editorial">第七欄「鑼築」後字印痕細碎，待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="9" facs="#f09" />
+        <div n="9" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f09-r-c01">
+              <seg type="diplomatic-text">著他們出到城外、那些人方纔知道那聲音是從王那</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f09-r-c02">
+              <seg type="diplomatic-text">裏吹來的、先去的那些有赦詔的人、他們臉上都帶著</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f09-r-c03">
+              <seg type="diplomatic-text">笑容、歡歡喜喜的、跟從差來的人說著話、出城要去見</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f09-r-c04">
+              <seg type="diplomatic-text">那太子、他們就去了、那差來的人、又回到各房子裏、要</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f09-r-c05">
+              <seg type="diplomatic-text">挈那其餘的人、也沒有對他們說別的話、就說、你們受</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f09-r-c06">
+              <seg type="diplomatic-text">審判去、他們跟著去、幾乎怕死、他們臉上的顏色、都嚇</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f09-r-c07">
+              <seg type="diplomatic-text">白了、渾身亂顫、跟著往前走、到了一塊大平原、這平原</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f09-r-c08">
+              <seg type="diplomatic-text">在城外、在那裏設著一個寶座、人人都看得見、他們就</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f09-r-c09">
+              <seg type="diplomatic-text">將這些被挈的人、安置在一處、在王的左邊、看見王頭</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字右段</label>
+              <seg type="diplomatic-text" rend="unknown">聖經說他必／差他的使者／吹號筒聲音／甚大將所揀／選的民從天／邊四極招聚／了來那作基／督門徒死了／的人必先復／活</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字左段</label>
+              <seg type="diplomatic-text" rend="unknown">聖經說又看／一個白色的／大寶座和坐／在上面的天／地都從他面／前隱遯不見／他所在了</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f09-r-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　十四</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f09-l-c01">
+              <seg type="diplomatic-text">上戴著幾層放光的冠冕、王回頭一看他們、面上大有</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f09-l-c02">
+              <seg type="diplomatic-text">威嚴、令他們十分驚懼、他們看見王眼前有幾本大書、</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f09-l-c03">
+              <seg type="diplomatic-text">都展開擱著、王挈起一本來念、念的都是那有赦詔的</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f09-l-c04">
+              <seg type="diplomatic-text">人的名字、有許多極有威嚴的人、都是管理各城的大</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f09-l-c05">
+              <seg type="diplomatic-text">官、圍繞著太子、他們穿的、都是甚華麗的衣服、那太子</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f09-l-c06">
+              <seg type="diplomatic-text">穿的衣服、炫耀人的眼睛、叫人都看不眞切、王大聲念</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f09-l-c07">
+              <seg type="diplomatic-text">完那本書上所有的人名、就轉身對那些有赦詔的人</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f09-l-c08">
+              <seg type="diplomatic-text">說、你們不必回城去了、跟隨我住在我父家裏、永遠作</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f09-l-c09">
+              <seg type="diplomatic-text">一家人、可以常見我父的面、王又另挈一本書念、念的</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字一</label>
+              <seg type="diplomatic-text" rend="unknown">聖經說頭戴／許多冠冕</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字二</label>
+              <seg type="diplomatic-text" rend="unknown">聖經說我又／見死了的人／無論大小都／站在天主面／前有書卷展／開又另有一／卷書展開就／是生命書</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字三</label>
+              <seg type="diplomatic-text" rend="unknown">聖經說王要／對那在右邊／的說蒙我父／寵愛的可來／承受創世以／來為你們所／預備的國</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f09-l-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　十五</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：「挈」可依同冊攜引動詞核其底部。</ab>
+          </div>
+        </div>
+        <pb n="10" facs="#f10" />
+        <div n="10" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f10-r-c01">
+              <seg type="diplomatic-text">是在他左邊的沒有赦詔的人的名字、和他們的賬、先</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f10-r-c02">
+              <seg type="diplomatic-text">念已經替他們還了的賬、又念他們後來增添的賬、命</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f10-r-c03">
+              <seg type="diplomatic-text">人將他們拉到那可怕的監裏、與從前離王宮不遠的</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f10-r-c04">
+              <seg type="diplomatic-text">地方、那悖逆的人、安置在一處、用鐵鏈鎖上、都囚在那</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f10-r-c05">
+              <seg type="diplomatic-text">黑暗地方、</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f10-r-c06">
+              <seg type="diplomatic-text">　這書上所載的比喻、所指的就是世人犯罪的光景、</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f10-r-c07">
+              <seg type="diplomatic-text">　那王就是獨一無二的天主、那許多城池、就是日月</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f10-r-c08">
+              <seg type="diplomatic-text">星辰、那一座不服王的城、就是世界上的人、主所創</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f10-r-c09">
+              <seg type="diplomatic-text">造的頭一個人亞當、原是沒有罪的、一點苦惱也沒</seg>
+            </ab>
+            <ab type="page-feature" subtype="scripture-margin">
+              <label>上欄小字</label>
+              <seg type="diplomatic-text" rend="unknown">聖經說又對／那在左邊的／說你們這些／可咒詛的人／離開我投到／為魔鬼和魔／鬼所預備的／永火裏去</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f10-r-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　十六</seg>
+            </ab>
+            <ab type="page-feature" subtype="name-line" corresp="#f10-r-c09">
+              <label>第九欄名線</label>
+              <seg type="diplomatic-text" rend="unknown">亞當</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f10-l-c01">
+              <seg type="diplomatic-text">有、只因背了主的命令、壞了心術、這纔犯罪、連累後</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f10-l-c02">
+              <seg type="diplomatic-text">世子孫都受苦難、那債就是罪、按著國度、犯了法就</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f10-l-c03">
+              <seg type="diplomatic-text">應當受罪、何況犯了天上大主宰的法度、豈不更當</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f10-l-c04">
+              <seg type="diplomatic-text">受刑、主說、人若犯了罪、靈魂就當永沉地獄、聖經又</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f10-l-c05">
+              <seg type="diplomatic-text">說、天主憐愛世人、將獨生子賜與他們、使凡信他的</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f10-l-c06">
+              <seg type="diplomatic-text">不至滅亡、必得永生、主的獨生子、就是耶穌、他到世</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f10-l-c07">
+              <seg type="diplomatic-text">上來、情願替衆人贖罪、或問、一個人、如何能贖衆人</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f10-l-c08">
+              <seg type="diplomatic-text">的罪呢、回答說、衆人如同剪碎的一刀竹紙、數目雖</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f10-l-c09">
+              <seg type="diplomatic-text">多、價値無幾、基督如同一個金表、數目雖是一個、價</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f10-l-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　十七</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal" corresp="#f10-l-c09">
+              <label>下緣印記</label>
+              <seg type="diplomatic-text" rend="unknown">三</seg>
+            </ab>
+          </div>
+        </div>
+        <pb n="11" facs="#f11" />
+        <div n="11" type="scan" subtype="author-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f11-r-c01">
+              <seg type="diplomatic-text">値却抵千百、自從天主創世、過了四千多年、他纔降</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f11-r-c02">
+              <seg type="diplomatic-text">生在世、作了罪人的救主、救主在世上、共有三十三</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f11-r-c03">
+              <seg type="diplomatic-text">年、世上的君王、但能管理人的行為、救主耶穌實能</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f11-r-c04">
+              <seg type="diplomatic-text">管理人的心志、那時猶太人的官長、妒嫉耶穌、就勾</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f11-r-c05">
+              <seg type="diplomatic-text">串惡黨、作出假見證、將他釘死在十字架上、他這一</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f11-r-c06">
+              <seg type="diplomatic-text">死、就是償了債了、世上人若能深信耶穌、就可以免</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f11-r-c07">
+              <seg type="diplomatic-text">罪、死後同到天堂享福、那赦詔就指得是心中得有</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f11-r-c08">
+              <seg type="diplomatic-text">平康的憑據、那不求赦詔的人、不覺自己有罪、輕看</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f11-r-c09">
+              <seg type="diplomatic-text">耶穌的救法、那知只一輕看、這罪比諸罪更重、內中</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f11-r-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　十八</seg>
+            </ab>
+            <ab type="page-feature" subtype="name-line" corresp="#f11-r-c04">
+              <label>第四欄名線</label>
+              <seg type="diplomatic-text" rend="unknown">猶太</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f11-l-c01">
+              <seg type="diplomatic-text">或有貪戀目前的榮華、暫時不肯信從、或有心中雖</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f11-l-c02">
+              <seg type="diplomatic-text">信、恐人指笑攔阻、不敢公然歸服、這都是有罪的、那</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f11-l-c03">
+              <seg type="diplomatic-text">一褡褳錢、指得是主賜人的能力、助人專心服事上</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f11-l-c04">
+              <seg type="diplomatic-text">主、那大鑼築的聲音、指得是末日的審判、那本債簿</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f11-l-c05">
+              <seg type="diplomatic-text">用紅筆塗抹、那紅、指得是耶穌的寶血、信主的人不</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f11-l-c06">
+              <seg type="diplomatic-text">怕末日的審判、因為耶穌的寶血、將他的罪洗淨了、</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f11-l-c07">
+              <seg type="diplomatic-text">不信的到了末日、沒有悔改的機會、實在是可怕的、</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f11-l-c08">
+              <seg type="diplomatic-text">看這書的人、請自己思想、欠主的債不欠、不知死在</seg>
+            </ab>
+            <ab type="column" n="9" xml:id="f11-l-c09">
+              <seg type="diplomatic-text">何日、應當及早反己悔罪求恩、聖經上說、現今正是</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f11-l-c09">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　十九</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：第四欄「鑼築」同第8幅，後字待核。</ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>鑼築</quote>
+              <note type="editorial">第四欄「鑼築」同第8幅，後字待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="12" facs="#f12" />
+        <div n="12" type="scan" subtype="body-end-and-hymn">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f12-r-c01">
+              <seg type="diplomatic-text">拯救的日子、</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f12-r-c01">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">欠債喻言　二十</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f12-l-c01">
+              <seg type="diplomatic-text">今我稱頌耶穌聖名　超乎世人為我友</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f12-l-c02">
+              <seg type="diplomatic-text">他愛勝過弟愛親兄　深遠如泉流長久</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f12-l-c03">
+              <seg type="diplomatic-text">世上友人欲救我身　誰是甘願流己血</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f12-l-c04">
+              <seg type="diplomatic-text">惟有耶穌滿心慈仁　替我受死贖罪孽</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f12-l-c05">
+              <seg type="diplomatic-text">昔在世上謙遜卑微　被人稱為罪人友</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f12-l-c06">
+              <seg type="diplomatic-text">今在天上大有光輝　舊日稱呼仍喜受</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f12-l-c07">
+              <seg type="diplomatic-text">惜哉吾人鐵石心腸　天上眞友常忘記</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f12-l-c08">
+              <seg type="diplomatic-text">今求上主使我感傷　能以習學愛字義</seg>
+            </ab>
+            <ab type="page-feature" subtype="stanza-number" corresp="#f12-l-c01">
+              <label>聖歌欄一上反白序號</label>
+              <seg type="diplomatic-text" rend="unknown">一</seg>
+            </ab>
+            <ab type="page-feature" subtype="stanza-number" corresp="#f12-l-c03">
+              <label>聖歌欄三上反白序號</label>
+              <seg type="diplomatic-text" rend="unknown">二</seg>
+            </ab>
+            <ab type="page-feature" subtype="stanza-number" corresp="#f12-l-c05">
+              <label>聖歌欄五上反白序號</label>
+              <seg type="diplomatic-text" rend="unknown">三</seg>
+            </ab>
+            <ab type="page-feature" subtype="stanza-number" corresp="#f12-l-c07">
+              <label>聖歌欄七上反白序號</label>
+              <seg type="diplomatic-text" rend="unknown">四</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：本面為未題詞名之歌詩，分四節；各直欄上、下段以全形空白區分。</ab>
+          </div>
+        </div>
+        <pb n="13" facs="#f13" />
+        <div n="13" type="scan" subtype="back-cover-ornament">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：底葉正視面中部為花籃圖記，未見自面文字；淡墨為前幅左面反印。</ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

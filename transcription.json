@@ -1,0 +1,1676 @@
+{
+  "metadata": {
+    "title": "欠債喻言",
+    "catalogue_title": "欠債喻言",
+    "alternate_title": "欠債喩言",
+    "roman_title": "Qian zhai yu yan",
+    "author": "M. B. North（Serica 館目）",
+    "date": "1876 年（歲次丙子），京都燈市口美華書院刷印。",
+    "location": "英國牛津（現藏）；原刊北京",
+    "repository": "牛津大學博德利圖書館",
+    "repository_en": "Bodleian Libraries, University of Oxford",
+    "collection": "Sinica",
+    "shelfmark": "Sinica 2036",
+    "catalogue": "https://digital.bodleian.ox.ac.uk/objects/c4c639f6-0a71-4090-bcb0-cb1232a3e210/",
+    "rights": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "description": "《欠債喻言》是 1876 年由北京燈市口美華書院刷印的官話小冊，Serica 館目署 M. B. North。故事用國王、城中欠債居民和代為償債的太子解說基督教的赦免與救贖，並附經文欄注及四節聖歌。牛津大學博德利圖書館 Sinica 2036 底本可供近代官話、宗教出版及圖文版式研究。",
+    "language": "zh",
+    "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/c4c639f6-0a71-4090-bcb0-cb1232a3e210.json",
+    "manifest_sha256": "8a1db2ea32f5ef0e92c2a62f0264d465f63b1799c1b678c18ac5d221bdeb5d13",
+    "record_id": "SINICA2036",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "version": "0.1.0",
+    "dataset_title": "欠債喻言（1876 年北京刊，牛津大學 Sinica 2036） / Qian zhai yu yan [Parable of the Debt]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/87e370c7-25a5-496d-9e1e-a66d7014ccd1.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/87e370c7-25a5-496d-9e1e-a66d7014ccd1/full/2000,/0/default.jpg",
+      "label": "p. [1]",
+      "file": "01.jpg",
+      "bytes": 674349,
+      "sha256": "33abf2ef8bb5161e40ced223cb4645872d036b3ad4dca0225a20ed053dd2d4c7",
+      "native_width": 7216,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1500,
+      "content_role": "title-and-imprint",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [
+            {
+              "text": "耶穌降世一千八百七十六年"
+            },
+            {
+              "text": "欠債喻言"
+            },
+            {
+              "text": "歲次丙子　京都燈市口美華書院刷印"
+            }
+          ],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "封面上方館藏墨書",
+              "text": "677a〔餘未釋〕",
+              "column_anchor": 3,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面下方館藏鉛筆",
+              "text": "Dupl／Chin. 677a*／Sinica 2036",
+              "column_anchor": 3,
+              "color": "unknown",
+              "lines": [
+                "Dupl",
+                "Chin. 677a*",
+                "Sinica 2036"
+              ]
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": null,
+          "context": "",
+          "candidates": [],
+          "note": "上方墨書末段筆勢不清，字形待核。"
+        }
+      ],
+      "observations": "單幅：上方墨書末段筆勢不清，字形待核。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2ae91dd7-c45f-497b-9d23-535e24f73659.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/2ae91dd7-c45f-497b-9d23-535e24f73659/full/2000,/0/default.jpg",
+      "label": "pp. [2]-[3]",
+      "file": "02.jpg",
+      "bytes": 853834,
+      "sha256": "cafd95b4f0d4e2d32f412e654fca605f93c924f548d43a792a617551e121e1f8",
+      "native_width": 6528,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1658,
+      "content_role": "opening-scripture-and-body",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "所以不能由著自己。因為你們是重價"
+            },
+            {
+              "text": "贖來的。○因為你們知道你們從列祖"
+            },
+            {
+              "text": "所傳流的虛妄行為裏得贖。不是靠著"
+            },
+            {
+              "text": "能壞的金銀等物。是靠著基督的寶血。"
+            },
+            {
+              "text": "如同無瑕疵的羔羊的血。"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "欄上經文出處",
+              "text": "哥林多前／書六章十／九節廿節／彼得前書／十八節十／九節",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "哥林多前",
+                "書六章十",
+                "九節廿節",
+                "彼得前書",
+                "十八節十",
+                "九節"
+              ]
+            },
+            {
+              "type": "seal",
+              "location": "下方淡墨圓印",
+              "text": "〔印文未釋〕",
+              "column_anchor": 5,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "欠債喻言"
+            },
+            {
+              "text": "有某王最憐愛他的百姓、他的國極大、城邑甚多、各城"
+            },
+            {
+              "text": "的百姓、都敬愛他、都聽從他的命令、惟有一城的百姓、"
+            },
+            {
+              "text": "不敬愛他所說的、不敬愛他的那城的人、王却最憐愛"
+            },
+            {
+              "text": "他們、他們缺乏的時候、王給他們日用之費、養贍他們、"
+            },
+            {
+              "text": "又給他們許多憑據、使他們知道他的愛心、這王恩待"
+            },
+            {
+              "text": "百姓的心、不但像作王的、直如為父的憐愛兒子的心"
+            },
+            {
+              "text": "一般、那一城的百姓、却甚辜負王的恩典、他們雖蒙王"
+            },
+            {
+              "text": "的憐愛、却沒有些須報答王的憐愛、王的糧食給他們"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字",
+              "text": "聖經上說主／喜悅仁義公／正主的恩典／徧滿世界",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經上說主",
+                "喜悅仁義公",
+                "正主的恩典",
+                "徧滿世界"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　一",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": ""
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9e4988cf-630e-438e-8299-7901db596a88.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/9e4988cf-630e-438e-8299-7901db596a88/full/2000,/0/default.jpg",
+      "label": "pp. [4]-[5]",
+      "file": "03.jpg",
+      "bytes": 977638,
+      "sha256": "961cec4f91a312af3871f2d549de7595cdfb9fda551b008b661b441a8450f1b2",
+      "native_width": 6528,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1658,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "吃、王的衣服給他們穿、他們却沒有存愛心、用錢財報"
+            },
+            {
+              "text": "答王、他們有時也想到將來是怎樣、恐怕王有與他們"
+            },
+            {
+              "text": "算賬的日子、他們雖是這樣怕、他"
+            },
+            {
+              "text": "們又轉念說、不必怕、我們的王是"
+            },
+            {
+              "text": "最慈悲的、是最憐憫人的、就將那"
+            },
+            {
+              "text": "算賬的日子不想了、有一日、城裏"
+            },
+            {
+              "text": "大亂、就如螞蟻窠被人跂了一般、"
+            },
+            {
+              "text": "有許多人跑出來、彼此問說、怎麼了、當下十字路口、一"
+            },
+            {
+              "text": "處一處的、有人三一羣五一夥的在那裏說話、看他們"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字",
+              "text": "聖經上說上／主在天上鑒／察世人看有／明道求主的／人沒有竟都／是背逆的都／陷在污穢裏／沒有行善的／人連一個也／沒有",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經上說上",
+                "主在天上鑒",
+                "察世人看有",
+                "明道求主的",
+                "人沒有竟都",
+                "是背逆的都",
+                "陷在污穢裏",
+                "沒有行善的",
+                "人連一個也",
+                "沒有"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　二",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "的意思、彷彿有懼怕的事、有一個人在街上和一個人"
+            },
+            {
+              "text": "說、你聽見那消息沒有、那個人說、甚麼消息、這個人說、"
+            },
+            {
+              "text": "王方纔傳出一道旨意、叫衆人聽、你沒有看見王差遣"
+            },
+            {
+              "text": "的人麼、那個人說、沒有、這個人說、我告訴你、王訂了一"
+            },
+            {
+              "text": "日期、所有我們欠他的錢、叫我們在那日都償還他、不"
+            },
+            {
+              "text": "然、就將我們下在監裏、那個人說、噯呀、這實在不是好"
+            },
+            {
+              "text": "消息、王向來怎樣說、便怎樣行、你是知道的、他不常驚"
+            },
+            {
+              "text": "嚇人、只要一說出來、就永遠不能更改了、這個人說、城"
+            },
+            {
+              "text": "那邊的人、離王宮不遠、王待他們極有恩典、後來他們"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　三",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 7,
+          "context": "跂",
+          "candidates": [],
+          "note": "第七欄「跂」右件及足部細筆待核。"
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f03-street-illustration",
+          "type": "drawing",
+          "bbox": [
+            1200,
+            288,
+            1585,
+            637
+          ]
+        }
+      ],
+      "observations": "右面：第七欄「跂」右件及足部細筆待核。 右面：第三至七欄上方有一幅街市插圖，無題記。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6fd95213-7901-4249-85b4-031b147e3940.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/6fd95213-7901-4249-85b4-031b147e3940/full/2000,/0/default.jpg",
+      "label": "pp. [6]-[7]",
+      "file": "04.jpg",
+      "bytes": 965488,
+      "sha256": "f7a966d206d00b16e9856dfa178f74b549c28b5c6e3a98b4586264245c204512",
+      "native_width": 6528,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1658,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "反了、這事你記得麼、王治他們的罪、是何等重、那個人"
+            },
+            {
+              "text": "說、是、我曾聽說、也記得、如今聽說那些人都囚在監裏、"
+            },
+            {
+              "text": "用鐵鏈鎖著在黑暗的地方、王說、永遠不饒恕他們、這"
+            },
+            {
+              "text": "個人說、這可怎麼好、我們若也受那樣刑罰、那還了得、"
+            },
+            {
+              "text": "那個人說、這可有甚麼方法呢、若是到那裏求他饒恕、"
+            },
+            {
+              "text": "告訴他說、我們實在懊悔欠的這大賬了、這樣求他、他"
+            },
+            {
+              "text": "或者可以更改、這個人說、那是徒然、我準知道他、既說"
+            },
+            {
+              "text": "要我們償還他、必一定要那樣行、那個人說、若我們到"
+            },
+            {
+              "text": "他那裏請罪、應許他以後再不敢這樣行了、如此、他還"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字",
+              "text": "聖經上說那／不守本位離／開所住的地／方的天使主／用鏈鎖將他／們永遠囚禁／在黑暗裏等／候大日的審／判",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經上說那",
+                "不守本位離",
+                "開所住的地",
+                "方的天使主",
+                "用鏈鎖將他",
+                "們永遠囚禁",
+                "在黑暗裏等",
+                "候大日的審",
+                "判"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　四",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "不饒恕我們麼、這個人說、恐怕還是徒然、他既傳出旨"
+            },
+            {
+              "text": "意、叫我們償還、我們雖然請罪、不能算還他錢、我們說"
+            },
+            {
+              "text": "再不敢這樣行、這句話、準能應驗麼、現在不能還他、恐"
+            },
+            {
+              "text": "怕往後還要欠他的賬呢、那個人說、是呀、我也覺著王"
+            },
+            {
+              "text": "的話既說出來、是不能更改的了、你想、王若那樣待我"
+            },
+            {
+              "text": "們、王豈不怕別處的民、也要照我們這樣行呢、這個人"
+            },
+            {
+              "text": "說、這可沒有甚麼指望了、我們是必定受罰的了、咭、巴"
+            },
+            {
+              "text": "不得有一條逃走的路纔好呢、是沒有了、王是一定不"
+            },
+            {
+              "text": "更改的、我們這時候、連一個錢也不能償還、實在沒有"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　五",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 7,
+          "context": "咭",
+          "candidates": [],
+          "note": "第七欄嘆字「咭」待核。"
+        }
+      ],
+      "observations": "左面：第七欄嘆字「咭」待核。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cdee8fef-9850-4b70-a1ed-07913f77b080.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/cdee8fef-9850-4b70-a1ed-07913f77b080/full/2000,/0/default.jpg",
+      "label": "pp. [8]-[9]",
+      "file": "05.jpg",
+      "bytes": 969005,
+      "sha256": "9daa927e21ee60ee2504cf2271c632fe5d62e0e2a6613f1b0c2a2078a6a8de83",
+      "native_width": 6528,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1658,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "指望了、將來決不免下在監裏、那監比別的監更凶猛、"
+            },
+            {
+              "text": "既進去、就萬不能出來了、二人分手、彼此心都煩悶、臉"
+            },
+            {
+              "text": "上都帶愁容、過了些日子、百姓總是恐怕被王收在監"
+            },
+            {
+              "text": "裏、當這時候、王打發人進城來、曉諭百姓一件事、城裏"
+            },
+            {
+              "text": "的人怕聽、便說、算計著必是來告訴那日子定了、監牢"
+            },
+            {
+              "text": "業已預備好了、怕王要差遣官長來算各人的賬、按賬"
+            },
+            {
+              "text": "的多少定罪、他們雖如此怕、却有幾個人出去、要聽那"
+            },
+            {
+              "text": "來的人說的到底是甚麼、他們一聽見、便都驚異、心裏"
+            },
+            {
+              "text": "都游移不信、因為王差來的人說、各人的賬都償還了、"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字",
+              "text": "聖經上說你／若有一分一／毫未曾還清／萬不能從那／裏出來",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經上說你",
+                "若有一分一",
+                "毫未曾還清",
+                "萬不能從那",
+                "裏出來"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　六",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "又說、我們悲慈的王說、他甚知你們的苦楚、也甚憐憫"
+            },
+            {
+              "text": "你們此時的景况、知道你們沒有錢、連些須都不能償"
+            },
+            {
+              "text": "還、又知道你們沒有甚麼方法、因為你們都欠著這大"
+            },
+            {
+              "text": "賬、誰也不能替誰、有一個人問說、王是怎樣辦的、他從"
+            },
+            {
+              "text": "前的話更改了麼、差來的人說、沒有、他不能更改、他一"
+            },
+            {
+              "text": "說賬須償還、那就償還了、他找了一個人、將你們欠的"
+            },
+            {
+              "text": "賬、叫他替你們償還了、衆人聽完這話、就甚喜樂、有幾"
+            },
+            {
+              "text": "個人說、我們王待我們的恩典、實在是大、王的話也應"
+            },
+            {
+              "text": "驗了、賬也償還了、我們也不至下在監牢、請問這位朋"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字",
+              "text": "聖經上說人／都不能贖自／己的弟兄也／無贖價奉與／主",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經上說人",
+                "都不能贖自",
+                "己的弟兄也",
+                "無贖價奉與",
+                "主"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　七",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：第一欄「悲慈」語序待依字形覆核。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/09e6b432-b61c-4591-9378-aece225c6124.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/09e6b432-b61c-4591-9378-aece225c6124/full/2000,/0/default.jpg",
+      "label": "pp. [10]-[11]",
+      "file": "06.jpg",
+      "bytes": 999258,
+      "sha256": "2eebc66bb3d79756a577483154725f32346262d648007ceade17902685dccd3d",
+      "native_width": 6528,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1658,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "友是誰、差來的人說、這人從前也在你們中間、你們不"
+            },
+            {
+              "text": "認識他、他是王的兒子、衆人說、我們從未見他在這裏、"
+            },
+            {
+              "text": "他若是在這裏、我們沒有不知道的、差來的人說、他是"
+            },
+            {
+              "text": "在你們中間、只是他來的時候、沒有甚麼勢派、他當初"
+            },
+            {
+              "text": "離他父家要來的時候、就將那尊貴衣服脫了、看他的"
+            },
+            {
+              "text": "妝飾、彷彿僕人似的、有一個人問說、他在這裏的時候、"
+            },
+            {
+              "text": "作的是甚麼事、差來的人說、他走遍了這城、親眼看見"
+            },
+            {
+              "text": "你們懼怕入監牢的光景、又憐憫你們、替你們償還了"
+            },
+            {
+              "text": "賬、現在你們可以找他去、向他討一張赦詔、衆人說、我"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字",
+              "text": "聖經上說他／本有天主的／式樣將自己／算與天主同／等也不以為／僭妄然而他／還虛己有奴／僕樣式形狀／成為世人既／有人的形狀／就自己卑微／至死順服就／是死在十字／架上也是順／服的",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經上說他",
+                "本有天主的",
+                "式樣將自己",
+                "算與天主同",
+                "等也不以為",
+                "僭妄然而他",
+                "還虛己有奴",
+                "僕樣式形狀",
+                "成為世人既",
+                "有人的形狀",
+                "就自己卑微",
+                "至死順服就",
+                "是死在十字",
+                "架上也是順",
+                "服的"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　八",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "們往那裏找他去、差來的人說、他離這裏不遠、他在城"
+            },
+            {
+              "text": "外等著討赦詔的人呢、有人要、他就給、衆人說、我們討"
+            },
+            {
+              "text": "這赦詔、還有甚麼用處、我們的賬、不是已經還清了麼、"
+            },
+            {
+              "text": "差來的人說、還沒有清呢、王說、誰沒有赦詔、誰就還算"
+            },
+            {
+              "text": "是欠錢、而且還有一層、你們從前的賬、雖然有人替還、"
+            },
+            {
+              "text": "往後你們還是沒有錢阿、一定還要欠這樣的大賬、你"
+            },
+            {
+              "text": "們去罷、又可以得赦詔、又可以聽見那太子向你們說"
+            },
+            {
+              "text": "的話、於是這信息傳遍城內城外、許多人都甚歡喜、最"
+            },
+            {
+              "text": "歡喜的、就是從前極憂愁、極懊悔、欠這樣大賬、恐怕激"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字右段",
+              "text": "聖經上說天／主又叫他升／在自己的右／邊立他作君／王作救主賜／恩與以色列／人使他們能／悔改得蒙赦／罪",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經上說天",
+                "主又叫他升",
+                "在自己的右",
+                "邊立他作君",
+                "王作救主賜",
+                "恩與以色列",
+                "人使他們能",
+                "悔改得蒙赦",
+                "罪"
+              ]
+            },
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字左段",
+              "text": "聖經上說天／主是萬人的／救主更是信／他的人的救／主",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經上說天",
+                "主是萬人的",
+                "救主更是信",
+                "他的人的救",
+                "主"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　九",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "下緣印記",
+              "text": "二",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": ""
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/924f0e96-633a-403f-8dea-525891aba81f.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/924f0e96-633a-403f-8dea-525891aba81f/full/2000,/0/default.jpg",
+      "label": "pp. [12]-[13]",
+      "file": "07.jpg",
+      "bytes": 1000491,
+      "sha256": "084bf14857e237e5b6b98bffa71296a0223c40e1504639dcc3d937e205aeb879",
+      "native_width": 6528,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1658,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "惹慈悲的王動怒的人、并不是那怕下在監裏的人、那"
+            },
+            {
+              "text": "些怕下監的人、看他們的形狀、却不切切的要得那赦"
+            },
+            {
+              "text": "詔、他們彼此說、你們聽見那差來的人說、那太子不是"
+            },
+            {
+              "text": "都替償還了麼、又去討赦詔作甚麼、我不費這事、於是"
+            },
+            {
+              "text": "他們不理論這事、其餘那些人都甚感激王和太子、說、"
+            },
+            {
+              "text": "我們的賬、既然還清、自然當見太子、謝謝他的恩、并且"
+            },
+            {
+              "text": "得那赦詔、那赦詔上有王的印、他們心裏又想、我們既"
+            },
+            {
+              "text": "然感他的恩、也當給他一個憑據、要聽從他的話、於是"
+            },
+            {
+              "text": "他們立刻就都去了、到了那裏、沒見著太子和王、有一"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字",
+              "text": "聖經上說人／若愛我就必／守我的道",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經上說人",
+                "若愛我就必",
+                "守我的道"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　十",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "位從王和太子那裏來的、在那裏等著他們、告訴他們"
+            },
+            {
+              "text": "說、太子那裏有一本册子、將你們的名字都記在上面、"
+            },
+            {
+              "text": "你們的罪是一準饒恕了、給各人一條赦詔、那赦詔上"
+            },
+            {
+              "text": "寫著各人欠賬的數目、都用紅筆塗抹了、那位大人給"
+            },
+            {
+              "text": "他們每人一個褡褳兒、都裝著錢、說、先給你們這一點、"
+            },
+            {
+              "text": "免得你們這幾日又欠賬、你們須儉省著使用、若果然"
+            },
+            {
+              "text": "不妄費、還可以給一褡褳兒錢呢、各人得了這一褡褳"
+            },
+            {
+              "text": "兒錢、就回本城去了、心裏甚歡喜、也甚感激、他們回到"
+            },
+            {
+              "text": "家裏、打開褡褳、見有一張條例、上面就是指示他們怎"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字右段",
+              "text": "聖經上說這／些人的名都／寫在生命册／子上",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經上說這",
+                "些人的名都",
+                "寫在生命册",
+                "子上"
+              ]
+            },
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字左段",
+              "text": "聖經上說等／到眞理的聖／靈來了他必／要引導你們／明白各樣眞／理因為他不／是憑著自己／說乃是將他／所聽見的話／並且要把將／來的事指示／你們他必榮／耀我因為他／必將所受於／我的指示你／們凡父所有／的都是我的／所以說他必／將所受於我／的指示你們",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經上說等",
+                "到眞理的聖",
+                "靈來了他必",
+                "要引導你們",
+                "明白各樣眞",
+                "理因為他不",
+                "是憑著自己",
+                "說乃是將他",
+                "所聽見的話",
+                "並且要把將",
+                "來的事指示",
+                "你們他必榮",
+                "耀我因為他",
+                "必將所受於",
+                "我的指示你",
+                "們凡父所有",
+                "的都是我的",
+                "所以說他必",
+                "將所受於我",
+                "的指示你們"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　十一",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": ""
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b76595f2-6493-4f3f-b723-06c8547c5df2.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/b76595f2-6493-4f3f-b723-06c8547c5df2/full/2000,/0/default.jpg",
+      "label": "pp. [14]-[15]",
+      "file": "08.jpg",
+      "bytes": 965233,
+      "sha256": "52949bbdef7c1719ad226a33f636cfd0bb25028bb5038ed3fbf670bae1364466",
+      "native_width": 6528,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1658,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "樣用法、應當買甚麼、那個應當給多少錢、都寫在上面、"
+            },
+            {
+              "text": "他們將錢用完了、又欠下一點賬、他們又去找那位大"
+            },
+            {
+              "text": "人、大人說、我看你們是竭力遵著我的話使用的、這所"
+            },
+            {
+              "text": "欠的一點、王也必要饒恕、這裏還有一褡褳兒錢、比先"
+            },
+            {
+              "text": "前的多、你們更須竭力打算著用、不要再欠一點賬了、"
+            },
+            {
+              "text": "王知道你們是用心的、太子也喜愛你們、因為你們信"
+            },
+            {
+              "text": "他差來的人說的話、你們也聽王從前的那吩咐、你們"
+            },
+            {
+              "text": "不必怕了、於是這些人更甚歡喜、各回各家去了、他們"
+            },
+            {
+              "text": "回去的時候、便說、我們更當竭力的不欠賬了、因為王"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字一",
+              "text": "聖經說小子／啊我寫信給／你們因為你／們靠著主名／罪得赦免",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經說小子",
+                "啊我寫信給",
+                "你們因為你",
+                "們靠著主名",
+                "罪得赦免"
+              ]
+            },
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字二",
+              "text": "聖經說凡有／的還要加給／他叫他有餘",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經說凡有",
+                "的還要加給",
+                "他叫他有餘"
+              ]
+            },
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字三",
+              "text": "聖經說叫我／們從聖靈不／從情欲的人／可以成就律／法的意",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經說叫我",
+                "們從聖靈不",
+                "從情欲的人",
+                "可以成就律",
+                "法的意"
+              ]
+            },
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字四",
+              "text": "聖經說若有／人犯罪就在／父那裏有我／們的中保就／是義人耶穌／基督",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經說若有",
+                "人犯罪就在",
+                "父那裏有我",
+                "們的中保就",
+                "是義人耶穌",
+                "基督"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　十二",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "待我們的恩典甚厚、太子為我們還了賬、又給我們錢、"
+            },
+            {
+              "text": "不叫我們再欠下賬、又不計較我們的錯處、他這樣待"
+            },
+            {
+              "text": "我們、我們更當極力討他喜歡、他們便照著他們的話"
+            },
+            {
+              "text": "行、他們的賬、業已還清、方纔覺得從前所欠的賬極大、"
+            },
+            {
+              "text": "他們既得了那錢、纔覺出從前的窮來了、那些不願得"
+            },
+            {
+              "text": "赦詔的人、他們的賬、益發日日增添、後來一日早晨、他"
+            },
+            {
+              "text": "們忽然聽見有極大的聲音、彷彿是大鑼築的聲音、那"
+            },
+            {
+              "text": "聲音越近越大、過了少時、就看見王差來的人、在街上"
+            },
+            {
+              "text": "跑來跑去、進入各房子裏、叫凡有赦詔的人先出來、帶"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字",
+              "text": "聖經說我們／的過惡多的／難當我們的／罪孽主必赦／免",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經說我們",
+                "的過惡多的",
+                "難當我們的",
+                "罪孽主必赦",
+                "免"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　十三",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 7,
+          "context": "鑼築",
+          "candidates": [],
+          "note": "第七欄「鑼築」後字印痕細碎，待核。"
+        }
+      ],
+      "observations": "左面：第七欄「鑼築」後字印痕細碎，待核。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/51a10031-9d57-4fd0-b0c4-70fc50bcf9d0.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/51a10031-9d57-4fd0-b0c4-70fc50bcf9d0/full/2000,/0/default.jpg",
+      "label": "pp. [16]-[17]",
+      "file": "09.jpg",
+      "bytes": 1001495,
+      "sha256": "c3ebe0ed1f76ce9ff9fa91d848cd5c755eda7368ebcfe2f6197526e7e10a220c",
+      "native_width": 6528,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1658,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "著他們出到城外、那些人方纔知道那聲音是從王那"
+            },
+            {
+              "text": "裏吹來的、先去的那些有赦詔的人、他們臉上都帶著"
+            },
+            {
+              "text": "笑容、歡歡喜喜的、跟從差來的人說著話、出城要去見"
+            },
+            {
+              "text": "那太子、他們就去了、那差來的人、又回到各房子裏、要"
+            },
+            {
+              "text": "挈那其餘的人、也沒有對他們說別的話、就說、你們受"
+            },
+            {
+              "text": "審判去、他們跟著去、幾乎怕死、他們臉上的顏色、都嚇"
+            },
+            {
+              "text": "白了、渾身亂顫、跟著往前走、到了一塊大平原、這平原"
+            },
+            {
+              "text": "在城外、在那裏設著一個寶座、人人都看得見、他們就"
+            },
+            {
+              "text": "將這些被挈的人、安置在一處、在王的左邊、看見王頭"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字右段",
+              "text": "聖經說他必／差他的使者／吹號筒聲音／甚大將所揀／選的民從天／邊四極招聚／了來那作基／督門徒死了／的人必先復／活",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經說他必",
+                "差他的使者",
+                "吹號筒聲音",
+                "甚大將所揀",
+                "選的民從天",
+                "邊四極招聚",
+                "了來那作基",
+                "督門徒死了",
+                "的人必先復",
+                "活"
+              ]
+            },
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字左段",
+              "text": "聖經說又看／一個白色的／大寶座和坐／在上面的天／地都從他面／前隱遯不見／他所在了",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經說又看",
+                "一個白色的",
+                "大寶座和坐",
+                "在上面的天",
+                "地都從他面",
+                "前隱遯不見",
+                "他所在了"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　十四",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "上戴著幾層放光的冠冕、王回頭一看他們、面上大有"
+            },
+            {
+              "text": "威嚴、令他們十分驚懼、他們看見王眼前有幾本大書、"
+            },
+            {
+              "text": "都展開擱著、王挈起一本來念、念的都是那有赦詔的"
+            },
+            {
+              "text": "人的名字、有許多極有威嚴的人、都是管理各城的大"
+            },
+            {
+              "text": "官、圍繞著太子、他們穿的、都是甚華麗的衣服、那太子"
+            },
+            {
+              "text": "穿的衣服、炫耀人的眼睛、叫人都看不眞切、王大聲念"
+            },
+            {
+              "text": "完那本書上所有的人名、就轉身對那些有赦詔的人"
+            },
+            {
+              "text": "說、你們不必回城去了、跟隨我住在我父家裏、永遠作"
+            },
+            {
+              "text": "一家人、可以常見我父的面、王又另挈一本書念、念的"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字一",
+              "text": "聖經說頭戴／許多冠冕",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經說頭戴",
+                "許多冠冕"
+              ]
+            },
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字二",
+              "text": "聖經說我又／見死了的人／無論大小都／站在天主面／前有書卷展／開又另有一／卷書展開就／是生命書",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經說我又",
+                "見死了的人",
+                "無論大小都",
+                "站在天主面",
+                "前有書卷展",
+                "開又另有一",
+                "卷書展開就",
+                "是生命書"
+              ]
+            },
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字三",
+              "text": "聖經說王要／對那在右邊／的說蒙我父／寵愛的可來／承受創世以／來為你們所／預備的國",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經說王要",
+                "對那在右邊",
+                "的說蒙我父",
+                "寵愛的可來",
+                "承受創世以",
+                "來為你們所",
+                "預備的國"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　十五",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：「挈」可依同冊攜引動詞核其底部。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2c64ca15-7683-4d41-ab86-098d46b0c4b8.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/2c64ca15-7683-4d41-ab86-098d46b0c4b8/full/2000,/0/default.jpg",
+      "label": "pp. [18]-[19]",
+      "file": "10.jpg",
+      "bytes": 924937,
+      "sha256": "cb413c79943c82447cbfd4d124c0a7e32de0447d895bbd77e28e81d7a71bd99a",
+      "native_width": 6528,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1658,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "是在他左邊的沒有赦詔的人的名字、和他們的賬、先"
+            },
+            {
+              "text": "念已經替他們還了的賬、又念他們後來增添的賬、命"
+            },
+            {
+              "text": "人將他們拉到那可怕的監裏、與從前離王宮不遠的"
+            },
+            {
+              "text": "地方、那悖逆的人、安置在一處、用鐵鏈鎖上、都囚在那"
+            },
+            {
+              "text": "黑暗地方、"
+            },
+            {
+              "text": "　這書上所載的比喻、所指的就是世人犯罪的光景、"
+            },
+            {
+              "text": "　那王就是獨一無二的天主、那許多城池、就是日月"
+            },
+            {
+              "text": "星辰、那一座不服王的城、就是世界上的人、主所創"
+            },
+            {
+              "text": "造的頭一個人亞當、原是沒有罪的、一點苦惱也沒"
+            }
+          ],
+          "extras": [
+            {
+              "type": "scripture-margin",
+              "location": "上欄小字",
+              "text": "聖經說又對／那在左邊的／說你們這些／可咒詛的人／離開我投到／為魔鬼和魔／鬼所預備的／永火裏去",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "聖經說又對",
+                "那在左邊的",
+                "說你們這些",
+                "可咒詛的人",
+                "離開我投到",
+                "為魔鬼和魔",
+                "鬼所預備的",
+                "永火裏去"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　十六",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "name-line",
+              "location": "第九欄名線",
+              "text": "亞當",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "有、只因背了主的命令、壞了心術、這纔犯罪、連累後"
+            },
+            {
+              "text": "世子孫都受苦難、那債就是罪、按著國度、犯了法就"
+            },
+            {
+              "text": "應當受罪、何況犯了天上大主宰的法度、豈不更當"
+            },
+            {
+              "text": "受刑、主說、人若犯了罪、靈魂就當永沉地獄、聖經又"
+            },
+            {
+              "text": "說、天主憐愛世人、將獨生子賜與他們、使凡信他的"
+            },
+            {
+              "text": "不至滅亡、必得永生、主的獨生子、就是耶穌、他到世"
+            },
+            {
+              "text": "上來、情願替衆人贖罪、或問、一個人、如何能贖衆人"
+            },
+            {
+              "text": "的罪呢、回答說、衆人如同剪碎的一刀竹紙、數目雖"
+            },
+            {
+              "text": "多、價値無幾、基督如同一個金表、數目雖是一個、價"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　十七",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "seal",
+              "location": "下緣印記",
+              "text": "三",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": ""
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1f52bf2e-2a4b-4eae-aaa6-067256e49941.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1f52bf2e-2a4b-4eae-aaa6-067256e49941/full/2000,/0/default.jpg",
+      "label": "pp. [20]-[21]",
+      "file": "11.jpg",
+      "bytes": 936140,
+      "sha256": "d0fc0b55f54ee85db9807d77713e9e2fa015cee90b62031696acd409a558100c",
+      "native_width": 6528,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1658,
+      "content_role": "author-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "値却抵千百、自從天主創世、過了四千多年、他纔降"
+            },
+            {
+              "text": "生在世、作了罪人的救主、救主在世上、共有三十三"
+            },
+            {
+              "text": "年、世上的君王、但能管理人的行為、救主耶穌實能"
+            },
+            {
+              "text": "管理人的心志、那時猶太人的官長、妒嫉耶穌、就勾"
+            },
+            {
+              "text": "串惡黨、作出假見證、將他釘死在十字架上、他這一"
+            },
+            {
+              "text": "死、就是償了債了、世上人若能深信耶穌、就可以免"
+            },
+            {
+              "text": "罪、死後同到天堂享福、那赦詔就指得是心中得有"
+            },
+            {
+              "text": "平康的憑據、那不求赦詔的人、不覺自己有罪、輕看"
+            },
+            {
+              "text": "耶穌的救法、那知只一輕看、這罪比諸罪更重、內中"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　十八",
+              "column_anchor": 9,
+              "color": "unknown"
+            },
+            {
+              "type": "name-line",
+              "location": "第四欄名線",
+              "text": "猶太",
+              "column_anchor": 4,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "或有貪戀目前的榮華、暫時不肯信從、或有心中雖"
+            },
+            {
+              "text": "信、恐人指笑攔阻、不敢公然歸服、這都是有罪的、那"
+            },
+            {
+              "text": "一褡褳錢、指得是主賜人的能力、助人專心服事上"
+            },
+            {
+              "text": "主、那大鑼築的聲音、指得是末日的審判、那本債簿"
+            },
+            {
+              "text": "用紅筆塗抹、那紅、指得是耶穌的寶血、信主的人不"
+            },
+            {
+              "text": "怕末日的審判、因為耶穌的寶血、將他的罪洗淨了、"
+            },
+            {
+              "text": "不信的到了末日、沒有悔改的機會、實在是可怕的、"
+            },
+            {
+              "text": "看這書的人、請自己思想、欠主的債不欠、不知死在"
+            },
+            {
+              "text": "何日、應當及早反己悔罪求恩、聖經上說、現今正是"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　十九",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 4,
+          "context": "鑼築",
+          "candidates": [],
+          "note": "第四欄「鑼築」同第8幅，後字待核。"
+        }
+      ],
+      "observations": "左面：第四欄「鑼築」同第8幅，後字待核。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/22cd7ba8-7981-4688-ac10-a885274e1618.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/22cd7ba8-7981-4688-ac10-a885274e1618/full/2000,/0/default.jpg",
+      "label": "pp. [22]-[23]",
+      "file": "12.jpg",
+      "bytes": 749666,
+      "sha256": "560c2d4ced50eca340cb6f8232c302539510a1b9a8ecba457d33dd9823fd88ac",
+      "native_width": 6528,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1658,
+      "content_role": "body-end-and-hymn",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "拯救的日子、"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "欠債喻言　二十",
+              "column_anchor": 1,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "今我稱頌耶穌聖名　超乎世人為我友"
+            },
+            {
+              "text": "他愛勝過弟愛親兄　深遠如泉流長久"
+            },
+            {
+              "text": "世上友人欲救我身　誰是甘願流己血"
+            },
+            {
+              "text": "惟有耶穌滿心慈仁　替我受死贖罪孽"
+            },
+            {
+              "text": "昔在世上謙遜卑微　被人稱為罪人友"
+            },
+            {
+              "text": "今在天上大有光輝　舊日稱呼仍喜受"
+            },
+            {
+              "text": "惜哉吾人鐵石心腸　天上眞友常忘記"
+            },
+            {
+              "text": "今求上主使我感傷　能以習學愛字義"
+            }
+          ],
+          "extras": [
+            {
+              "type": "stanza-number",
+              "location": "聖歌欄一上反白序號",
+              "text": "一",
+              "column_anchor": 1,
+              "color": "unknown"
+            },
+            {
+              "type": "stanza-number",
+              "location": "聖歌欄三上反白序號",
+              "text": "二",
+              "column_anchor": 3,
+              "color": "unknown"
+            },
+            {
+              "type": "stanza-number",
+              "location": "聖歌欄五上反白序號",
+              "text": "三",
+              "column_anchor": 5,
+              "color": "unknown"
+            },
+            {
+              "type": "stanza-number",
+              "location": "聖歌欄七上反白序號",
+              "text": "四",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：本面為未題詞名之歌詩，分四節；各直欄上、下段以全形空白區分。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8b372ef3-3c42-4c7a-8e33-f2a34ce8319f.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/8b372ef3-3c42-4c7a-8e33-f2a34ce8319f/full/2000,/0/default.jpg",
+      "label": "p. [24]",
+      "file": "13.jpg",
+      "bytes": 667180,
+      "sha256": "0ad490a1f6d6dffbf6ca9805600eb0f41a01adfa1faf1c31733111518ebf5ae8",
+      "native_width": 6528,
+      "native_height": 5412,
+      "downloaded_width": 2000,
+      "downloaded_height": 1658,
+      "content_role": "back-cover-ornament",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "facsimile_regions": [
+        {
+          "id": "f13-back-cover-ornament",
+          "type": "drawing",
+          "bbox": [
+            1250,
+            548,
+            1492,
+            797
+          ]
+        }
+      ],
+      "observations": "單幅：底葉正視面中部為花籃圖記，未見自面文字；淡墨為前幅左面反印。"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "historical_author": "M. B. North（Serica 館目）",
+  "source_identity": "Bodleian Libraries, University of Oxford, Sinica 2036",
+  "source": "https://digital.bodleian.ox.ac.uk/objects/c4c639f6-0a71-4090-bcb0-cb1232a3e210/",
+  "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/c4c639f6-0a71-4090-bcb0-cb1232a3e210.json",
+  "source_rights_policy": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "dataset_version": "0.1.0",
+  "scan_count": 13,
+  "content_scan_count": 12,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/87e370c7-25a5-496d-9e1e-a66d7014ccd1.json",
+      "label": "p. [1]",
+      "sha256": "33abf2ef8bb5161e40ced223cb4645872d036b3ad4dca0225a20ed053dd2d4c7",
+      "content_role": "title-and-imprint"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2ae91dd7-c45f-497b-9d23-535e24f73659.json",
+      "label": "pp. [2]-[3]",
+      "sha256": "cafd95b4f0d4e2d32f412e654fca605f93c924f548d43a792a617551e121e1f8",
+      "content_role": "opening-scripture-and-body"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9e4988cf-630e-438e-8299-7901db596a88.json",
+      "label": "pp. [4]-[5]",
+      "sha256": "961cec4f91a312af3871f2d549de7595cdfb9fda551b008b661b441a8450f1b2",
+      "content_role": "author-text"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/6fd95213-7901-4249-85b4-031b147e3940.json",
+      "label": "pp. [6]-[7]",
+      "sha256": "f7a966d206d00b16e9856dfa178f74b549c28b5c6e3a98b4586264245c204512",
+      "content_role": "author-text"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/cdee8fef-9850-4b70-a1ed-07913f77b080.json",
+      "label": "pp. [8]-[9]",
+      "sha256": "9daa927e21ee60ee2504cf2271c632fe5d62e0e2a6613f1b0c2a2078a6a8de83",
+      "content_role": "author-text"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/09e6b432-b61c-4591-9378-aece225c6124.json",
+      "label": "pp. [10]-[11]",
+      "sha256": "2eebc66bb3d79756a577483154725f32346262d648007ceade17902685dccd3d",
+      "content_role": "author-text"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/924f0e96-633a-403f-8dea-525891aba81f.json",
+      "label": "pp. [12]-[13]",
+      "sha256": "084bf14857e237e5b6b98bffa71296a0223c40e1504639dcc3d937e205aeb879",
+      "content_role": "author-text"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/b76595f2-6493-4f3f-b723-06c8547c5df2.json",
+      "label": "pp. [14]-[15]",
+      "sha256": "52949bbdef7c1719ad226a33f636cfd0bb25028bb5038ed3fbf670bae1364466",
+      "content_role": "author-text"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/51a10031-9d57-4fd0-b0c4-70fc50bcf9d0.json",
+      "label": "pp. [16]-[17]",
+      "sha256": "c3ebe0ed1f76ce9ff9fa91d848cd5c755eda7368ebcfe2f6197526e7e10a220c",
+      "content_role": "author-text"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/2c64ca15-7683-4d41-ab86-098d46b0c4b8.json",
+      "label": "pp. [18]-[19]",
+      "sha256": "cb413c79943c82447cbfd4d124c0a7e32de0447d895bbd77e28e81d7a71bd99a",
+      "content_role": "author-text"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1f52bf2e-2a4b-4eae-aaa6-067256e49941.json",
+      "label": "pp. [20]-[21]",
+      "sha256": "d0fc0b55f54ee85db9807d77713e9e2fa015cee90b62031696acd409a558100c",
+      "content_role": "author-text"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/22cd7ba8-7981-4688-ac10-a885274e1618.json",
+      "label": "pp. [22]-[23]",
+      "sha256": "560c2d4ced50eca340cb6f8232c302539510a1b9a8ecba457d33dd9823fd88ac",
+      "content_role": "body-end-and-hymn"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8b372ef3-3c42-4c7a-8e33-f2a34ce8319f.json",
+      "label": "p. [24]",
+      "sha256": "0ad490a1f6d6dffbf6ca9805600eb0f41a01adfa1faf1c31733111518ebf5ae8",
+      "content_role": "back-cover-ornament"
+    }
+  ]
+}
